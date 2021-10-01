@@ -37,10 +37,19 @@
 
 *123*
 *single asterisks*
+
 _single underscores_
+
 **double asterisks**
+
 __double underscores__
+
 ~~cancelline~~
+
+|국어|영어|수학|
+|----|----|----|
+|10|20|30|
+|40|50|60|
 
 
 
