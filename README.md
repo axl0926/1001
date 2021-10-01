@@ -35,6 +35,14 @@
 2366161
 123515  
 
+*123*
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+
+
 
 
 
